@@ -1,2 +1,4 @@
-# c3c-FB-Status
-Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab. Cookie-Editor is designed to have a simple to use interface that let you do most standard cookie operations. It is ideal for developing and testing web pages or even manual management of cookies for your privacy.
+# c3c-fbstate
+A Chrome extension. Used to import/export fbstate.json file to be used with C3C or any other bots based on fca-unofficial/facebook-chat-api.
+
+See how to install this thing: https://www.youtube.com/embed/KN6UzbisSFo
